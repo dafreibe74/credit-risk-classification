@@ -1,6 +1,6 @@
 # credit-risk-classification
 
-In this exercise we used machine learning techniques to analyze find credot-worthiness from historical lending activity of a peer-to-peer lending service.
+In this exercise we used machine learning techniques to analyze find credit-worthiness from historical lending activity of a peer-to-peer lending service.
 
 # Analysis
 The data included the following fields:
