@@ -3,15 +3,16 @@
 In this exercise we used machine learning techniques to analyze find credit-worthiness from historical lending activity of a peer-to-peer lending service.
 
 # Analysis
-The data included the following fields:
-
-* loan size
-* hits/bad marks against the applicant
-* applicant income
-* total applicant debt
-* applicant debt-to-income ratio
-* interest rate
-* applicants # of open accounts
+Data dimensions:
+* Applicant-based:
+   * income
+   * debt
+   * credit hits/bad-marks
+   * debt-to-income ratio
+   * applicants # of open accounts
+* Off Loan Type:
+   * loan size
+   * interest rate
 
 1. Data split into training and testing sets. We used the training set to build a first logistic regression model.
 2. We applied the LogisticRegression module to the testing dataset. 
